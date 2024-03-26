@@ -223,6 +223,7 @@
     },
     "storageConnectivitySwitchless": {
       "value": true
+	     "value": true
     },
     "customLocation": {
       "value": "EXAMPLE-clCustomLocation"
